@@ -1,3 +1,4 @@
+package pl.agaStupak.gitflow;
 import java.util.function.Supplier;
 
 public class GPZd implements Supplier<String> {

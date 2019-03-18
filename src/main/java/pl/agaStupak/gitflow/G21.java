@@ -1,3 +1,4 @@
+package pl.agaStupak.gitflow;
 import java.util.function.Supplier;
 
 public class G21 implements Supplier<String> {
